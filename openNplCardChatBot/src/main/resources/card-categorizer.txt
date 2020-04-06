@@ -1,0 +1,3 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy feen cv yo salam
+getCard     card payement visa master credit card mastercard pay cc market 3ds ds americanexpress market e-money cards
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it. goodbye  see you thala
